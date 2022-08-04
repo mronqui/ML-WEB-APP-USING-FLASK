@@ -16,4 +16,4 @@ sympy>=1.10.1
 sklearn
 flask
 gunicorn
-pikle
+pickle
